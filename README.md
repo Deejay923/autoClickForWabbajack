@@ -21,7 +21,7 @@ Perfect for automating repetitive clicking and scrolling tasks during Wabbajack 
 ## Setup
 
 1. Place your button and trigger images in the same directory as the script:
-   - **Download buttons**: `slow_download.png`, `slow_download2.png`, etc.
+   - **Download buttons**: `slowDownload.png`, `slowDownload2.png`, etc.
    - **Archive headers**: `downloadArchive.png`, `downloadArchive2.png`
 
 2. Adjust the image file names in the script if your images are named differently.
